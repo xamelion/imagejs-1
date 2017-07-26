@@ -32,7 +32,6 @@
     "dependencies": {
         "bluebird": "*",
         "jpeg-js": "0.1.1",
-        "node-png": "0.4.3",
         "pngjs": "^3.2.0",
         "underscore": "1.4.4"
     },
